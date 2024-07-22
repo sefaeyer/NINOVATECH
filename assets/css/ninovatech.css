@@ -1,0 +1,18 @@
+:root {
+    --color1: rgb(23, 45, 64);
+    --color2: #e6e6e6;
+    --color3: #343a40;
+    --color4: #02b75a;
+    --color5: #4f4f50;
+    --color6: #0f0f0f;
+    --color7: #00ea71;
+}
+
+
+
+.header{
+   
+    background-color: var(--color1)
+}
+
+

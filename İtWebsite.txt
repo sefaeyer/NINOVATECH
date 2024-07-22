@@ -1,0 +1,21 @@
+	IT grup Resume Sitesi
+1)- Proje İsmi = 
+
+2)- Logo
+
+3)- Anasayfa
+Ahmet Bey- Osman Bey- Kenan Bey- Büşra Hanım
+	a)- Navbar
+	b)- Sosyal Media
+	c)- Slider-Resim
+	d)- Cards
+	e)- İletişim-contact mesaj
+	f)- Footer
+	g)- Login
+4)- Navbar içerikleri;
+Gökhan Bey-Sefa Bey
+	a)-Blog
+	b)-Hakkımızda
+	c)-İletişim.
+
+

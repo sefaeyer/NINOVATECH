@@ -1,0 +1,173 @@
+Ana Sayfa
+Bileşenler:
+Nav Bar
+Slider
+Ana İçerik Alanı
+Son Blog Yazıları
+Footer
+Görevler:
+Nav Bar
+Görevler:
+
+UI/UX Tasarımcı:
+Nav bar tasarımını oluştur.
+Menü öğelerini belirle (Ana Sayfa, Hakkında, Blog, İletişim).
+Frontend Geliştirici 1:
+Bootstrap kullanarak nav bar'ın HTML yapısını oluştur.
+CSS ile özelleştir ve stil ver.
+JavaScript ile açılır menü veya diğer etkileşimleri ekle (Bootstrap'ın JavaScript bileşenleri kullanılabilir).
+Slider
+Görevler:
+
+UI/UX Tasarımcı:
+Slider tasarımını oluştur.
+Slider’da kullanılacak görselleri ve metinleri belirle.
+Frontend Geliştirici 1:
+Bootstrap kullanarak slider’ın HTML yapısını oluştur (Bootstrap carousel bileşeni kullanılabilir).
+CSS ile özelleştir ve stil ver.
+JavaScript ile slider işlevselliğini ekle (otomatik kaydırma, oklar, noktalar).
+Ana İçerik Alanı
+Görevler:
+
+UI/UX Tasarımcı:
+Ana içerik alanı tasarımını oluştur.
+Kullanılacak metinleri ve görselleri belirle.
+Frontend Geliştirici 1:
+HTML ve CSS kullanarak ana içerik alanının yapısını oluştur.
+Bootstrap grid sistemi ile responsive yap.
+Son Blog Yazıları
+Görevler:
+
+UI/UX Tasarımcı:
+Son blog yazıları bölümünün tasarımını oluştur.
+Blog yazılarının nasıl görüntüleneceğini belirle (başlık, kısa açıklama, tarih).
+Frontend Geliştirici 1:
+HTML ve CSS kullanarak son blog yazıları bölümünün yapısını oluştur.
+Bootstrap kart bileşenleri ile stil ver.
+JavaScript ile blog yazılarını dinamik olarak yükle (dummy data kullanılabilir).
+Footer
+Görevler:
+
+UI/UX Tasarımcı:
+Footer tasarımını oluştur.
+Footer’da kullanılacak öğeleri belirle (sosyal medya ikonları, iletişim bilgileri, kısa açıklama).
+Frontend Geliştirici 1:
+HTML ve CSS kullanarak footer’ın yapısını oluştur.
+Bootstrap ile stil ver.
+Hakkında Sayfası
+Bileşenler:
+Nav Bar (Ana sayfa ile aynı)
+Hakkında Metni ve Görselleri
+Footer (Ana sayfa ile aynı)
+Görevler:
+Hakkında Metni ve Görselleri
+Görevler:
+
+UI/UX Tasarımcı:
+Hakkında sayfası tasarımını oluştur.
+Kullanılacak metinleri ve görselleri belirle.
+Frontend Geliştirici 2:
+HTML ve CSS kullanarak hakkında sayfasının yapısını oluştur.
+Bootstrap ile responsive hale getir.
+İletişim Sayfası
+Bileşenler:
+Nav Bar (Ana sayfa ile aynı)
+İletişim Formu
+Footer (Ana sayfa ile aynı)
+Görevler:
+İletişim Formu
+Görevler:
+
+UI/UX Tasarımcı:
+İletişim formu tasarımını oluştur.
+Form alanlarını belirle (Ad, E-posta, Mesaj).
+Frontend Geliştirici 2:
+HTML ve CSS kullanarak iletişim formunun yapısını oluştur.
+Bootstrap form bileşenleri ile stil ver.
+JavaScript ile form doğrulama ve gönderme işlemlerini ekle (Bootstrap’ın form doğrulama bileşenleri kullanılabilir).
+Backend Geliştirici 1:
+İletişim formu verilerini backend’e iletecek API’yi oluştur.
+Backend Geliştirici 2:
+İletişim formu verilerini veritabanına kaydeden ve gerektiğinde e-posta ile ileten işlevselliği oluştur.
+Blog Sayfası
+Bileşenler:
+Nav Bar (Ana sayfa ile aynı)
+Blog Yazıları Listesi
+Tekil Blog Yazısı Sayfası
+Footer (Ana sayfa ile aynı)
+Görevler:
+Blog Yazıları Listesi
+Görevler:
+
+UI/UX Tasarımcı:
+Blog yazıları listesi tasarımını oluştur.
+Blog yazılarının nasıl görüntüleneceğini belirle (başlık, kısa açıklama, tarih).
+Frontend Geliştirici 1:
+HTML ve CSS kullanarak blog yazıları listesinin yapısını oluştur.
+Bootstrap kart bileşenleri ile stil ver.
+JavaScript ile sayfalama ve dinamik içerik yükleme işlemlerini ekle.
+Backend Geliştirici 1:
+Blog yazıları listesini sağlayan API’yi oluştur.
+Tekil Blog Yazısı Sayfası
+Görevler:
+
+UI/UX Tasarımcı:
+Tekil blog yazısı sayfası tasarımını oluştur.
+Blog yazısının nasıl görüntüleneceğini belirle (başlık, içerik, yazar, tarih).
+Frontend Geliştirici 1:
+HTML ve CSS kullanarak tekil blog yazısı sayfasının yapısını oluştur.
+Bootstrap ile stil ver.
+JavaScript ile dinamik içerik yükleme işlemlerini ekle.
+Backend Geliştirici 2:
+Tekil blog yazısı detaylarını sağlayan API’yi oluştur.
+Genel Görevler
+1. Veritabanı Yönetimi (Veritabanı Yöneticisi)
+Görevler:
+
+Veritabanı yapısını oluştur.
+Gerekli tabloları oluştur (Kullanıcılar, Blog yazıları, İletişim verileri).
+Veritabanı yedekleme ve geri yükleme işlemlerini planla.
+2. Deployment ve CI/CD (DevOps Mühendisi)
+Görevler:
+
+Projeyi uygun bir platforma deploy et.
+CI/CD süreçlerini kur ve yönet.
+Sunucu performansını ve güvenliğini sağla.
+Bu görev dağılımı ve adım adım yapılacaklarla, ekibinizle birlikte başarılı bir şekilde web sitesini oluşturabilirsiniz. Herhangi bir konuda yardıma ihtiyacınız olursa, size yardımcı olmaktan mutluluk duyarım!
+
+
+
+
+
+toplam kaç html sayfası oldu
+ChatGPT
+Planladığımız web sitesi için toplamda 4 HTML sayfası olacak. İşte her bir sayfa ve içerikleri:
+
+Ana Sayfa (index.html)
+
+Nav Bar
+Slider
+Ana İçerik Alanı
+Son Blog Yazıları
+Footer
+Hakkında Sayfası (about.html)
+
+Nav Bar
+Hakkında Metni ve Görselleri
+Footer
+İletişim Sayfası (contact.html)
+
+Nav Bar
+İletişim Formu
+Footer
+Blog Sayfası (blog.html)
+
+Nav Bar
+Blog Yazıları Listesi
+Footer
+Ek olarak, blog yazılarının detaylarını göstermek için gerekli olan tekil blog yazısı sayfası da bulunmaktadır:
+
+Tekil Blog Yazısı Sayfası (blog-post.html)
+Nav Bar
+Blog Yazısı İçeriği
+Footer
