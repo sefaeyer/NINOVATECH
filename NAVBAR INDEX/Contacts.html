@@ -12,7 +12,9 @@
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
+   
     <link rel="stylesheet" href="/assets/lib/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/NAVBAR INDEX/contact.css">
 </head>
 <body>
 
@@ -76,6 +78,73 @@
           </div>
         </div>
       </nav>
+
+      <div class="container">
+        <div class="contact-form">
+            <h2>Contact Us</h2>
+            <form>
+                <div class="form-group">
+                    <label for="firstName">First Name <span class="required">(required)</span></label>
+                    <input type="text" id="firstName" name="firstName" required>
+                </div>
+                <div class="form-group">
+                    <label for="lastName">Last Name</label>
+                    <input type="text" id="lastName" name="lastName">
+                </div>
+                <div class="form-group">
+                    <label for="email">Email <span class="required">(required)</span></label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div class="form-group">
+                    <label for="phoneCountry">Phone</label>
+                    <div class="phone-input">
+                        <select id="phoneCountry" name="phoneCountry">
+                            <option value="United States">United States</option>
+                            <!-- Add more options as needed -->
+                        </select>
+                        <input type="tel" id="phoneNumber" name="phoneNumber" placeholder="+1">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="interest">I'm interested in... <span class="required">(required)</span></label>
+                    <select id="interest" name="interest" required>
+                        <option value="">Select an option</option>
+                        <!-- Add more options as needed -->
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="message">Message <span class="required">(required)</span></label>
+                    <textarea id="message" name="message" required></textarea>
+                </div>
+                <button type="submit">Submit</button>
+            </form>
+        </div>
+        <div class="contact-info">
+            <div class="connect">
+                <h3>Connect</h3>
+                <a href="mailto:contact@enhanceit.com">contact@ninovatech.com</a>
+                <div class="social-media">
+                    <a href="#"><img src="instagram-icon.png" alt="Instagram"></a>
+                    <a href="#"><img src="linkedin-icon.png" alt="LinkedIn"></a>
+                    <a href="#"><img src="facebook-icon.png" alt="Facebook"></a>
+                    <a href="#"><img src="youtube-icon.png" alt="YouTube"></a>
+                </div>
+            </div>
+            <div class="address">
+                <h3>Address</h3>
+                <p>United States</p>
+                <p>1785 The Exchange SE<br>Suite 200<br>Atlanta, GA 30339</p>
+                <p>Call us: <a href="tel:770-783-1700">770-783-1700</a></p>
+                <p>United Kingdom</p>
+                <p>18 King William Street<br>London EC4N 7BP</p>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
+
 
 
 
